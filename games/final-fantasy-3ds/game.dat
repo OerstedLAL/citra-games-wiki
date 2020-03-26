@@ -1,0 +1,9 @@
+title = "Final Fantasy"
+description = "Final Fantasy is a role-playing video game developed and published by Square Enix for the Nintendo 3DS. It features the original Final Fantasy game remade, with it's job based combat system, and story."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000010E200"
+region = "jpn"
+release_date = "2014-12-18"
